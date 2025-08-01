@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rahulpattusamy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UEX1w7apfcUED1GJOTlOFflPXDUiOF3k/view?usp=drivesdk](https://drive.google.com/file/d/1UEX1w7apfcUED1GJOTlOFflPXDUiOF3k/view?usp=drivesdk)
+- 📄 Know about my experiences [https://rahulraj-portfolio.vercel.app/](https://rahulraj-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I think iam funnny**
 
