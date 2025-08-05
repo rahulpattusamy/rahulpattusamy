@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning about backend technology
+- 🌱 I’m currently learning Nextjs
 - 🔭 All of my projects are available at [**My Portfolio**](https://rahulraj-portfolio.vercel.app/)
 - 💬 Ask me about **JavaScript, React, and Frontend stuff**
 - 📫 Reach me at **rahulpattusamy@gmail.com**
